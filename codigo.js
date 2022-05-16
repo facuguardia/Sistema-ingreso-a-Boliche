@@ -12,7 +12,7 @@ const validarCliente = (time) =>{
             alert(`son las ${time}:00hs. y podes pasar pero tenes que pagar entrada`);
         }
     }else {
-        alert("No mi rey, es imposible que ingreses sos un Baby anda a tomar la mema");
+        alert("No podes ingrasar sos menor de edad");
     }
 }
 
